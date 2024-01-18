@@ -1,5 +1,9 @@
 # React-Native-Recording
 React native app that record, play and manage audio.
+* Record audio
+* Play/stop/pause/mute/loop/change volume audio
+* Sort records be name/duration/size/date
+* Edit records - rename, delete, delete all
 
 <div style="display:flex;">
   <img src="https://github.com/Alexaltrex/React-Native-Recording/assets/56224288/729c8a9c-b09a-4447-9eda-b79f428550c8" height="300">
